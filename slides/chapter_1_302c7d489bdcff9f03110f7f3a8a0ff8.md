@@ -3,7 +3,7 @@ key: 302c7d489bdcff9f03110f7f3a8a0ff8
 title: 'Insert title here'
 ---
 
-## 소개 영상
+## 소개 영상과 슬라이드
 
 ```yaml
 type: TitleSlide

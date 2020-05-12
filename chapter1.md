@@ -156,7 +156,7 @@ xp: 100
 
 ---
 
-## 소개 영상
+## 소개 영상과 슬라이드
 
 ```yaml
 type: VideoExercise
