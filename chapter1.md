@@ -153,3 +153,16 @@ xp: 100
 ```{python}
 # Examples of good success messages: https://instructor-support.datacamp.com/en/articles/2299773-exercise-success-messages.
 ```
+
+---
+
+## 소개 영상
+
+```yaml
+type: VideoExercise
+key: 691e0316a3
+xp: 50
+```
+
+`@projector_key`
+302c7d489bdcff9f03110f7f3a8a0ff8
