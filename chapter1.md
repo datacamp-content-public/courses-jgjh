@@ -13,13 +13,13 @@ xp: 100
 skills: 2
 ```
 
-This is an example exercise.
+예제 문제
 
 `@instructions`
-
+Helloworld 를 출력하는 코드를 작성하세요.
 
 `@hint`
-
+print() 를 사용하시면 됩니다.
 
 `@pre_exercise_code`
 ```{python}
@@ -33,7 +33,7 @@ This is an example exercise.
 
 `@solution`
 ```{python}
-
+print("Helloworld")
 ```
 
 `@sct`
