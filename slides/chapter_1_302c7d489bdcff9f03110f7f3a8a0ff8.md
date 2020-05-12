@@ -19,7 +19,7 @@ title: 데이터 사이언스 스쿨 수료
 
 ---
 
-## Let's practice!
+## 한글은 안됩니다!! Cannot support Korean!
 
 ```yaml
 type: FinalSlide
@@ -27,3 +27,4 @@ key: 2e1008ceb0
 ```
 
 `@script`
+Only English!!!
