@@ -3,7 +3,7 @@ title: 'Chapter Title Here'
 description: 'Chapter description goes here.'
 ---
 
-## Example coding exercise
+## 파이썬 기본 코드 작성
 
 ```yaml
 type: NormalExercise
